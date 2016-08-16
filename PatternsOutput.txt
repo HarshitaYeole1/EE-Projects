@@ -1,0 +1,27 @@
+
+Project 1 written By Harshita.
+Pattern 1: 
+Enter the number of boxes: 
+3
++------+------+------+
+|      |      |      |
+|      |      |      |
++------+------+------+
++------+------+------+
+|      |      |      |
+|      |      |      |
++------+------+------+
+Pattern 2: 
+Enter width of the pattern: 
+4
+Enter height of the pattern: 
+3
+ __    __    __    __   
+/  \__/  \__/  \__/  \
+\__/  \__/  \__/  \__/  
+/  \__/  \__/  \__/  \
+\__/  \__/  \__/  \__/  
+/  \__/  \__/  \__/  \
+\__/  \__/  \__/  \__/  
+Process finished with exit code 0
+
